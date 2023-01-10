@@ -7,5 +7,4 @@ class todo {
   }
 }
 
-function lemon<T>() {}
 export default todo;
